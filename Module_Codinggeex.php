@@ -1,5 +1,5 @@
 <?php
-namespace GDO\Codinggeeex;
+namespace GDO\Codinggeex;
 
 use GDO\Core\GDO_Module;
 
