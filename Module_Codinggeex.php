@@ -10,6 +10,9 @@ use GDO\Perf\Module_Perf;
 final class Module_Codinggeex extends GDO_Module
 {
 
+	public int $priority = 100;
+
+
 	public function getTheme(): ?string
 	{
 		return 'cgx';
